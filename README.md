@@ -1,1 +1,1 @@
-# react-stoper
+# stoper-app

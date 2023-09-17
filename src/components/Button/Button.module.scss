@@ -1,0 +1,18 @@
+@import '../../styles/settings.scss';
+
+.btn {
+    background-color: $color-success;
+    color: $color-light;
+    border-radius: 5px;
+    border: $color-success;
+    padding: 10px 15px;
+    margin: 10px;
+    text-transform: uppercase;
+    width: 50px;
+    font-size: 16px;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+}
